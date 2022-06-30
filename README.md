@@ -1,17 +1,18 @@
 # sdd_object_oriented_programming
 Introduction to OOP using Python (Skyrim Example)
 
-Covering:
-Class defitiions;
+The slides code covers the following topic areas for HSC SDD:
 
-Objects;
+  Class defitiions;
 
-Instantiation;
+  Objects;
 
-Attributes and Methods;
+  Instantiation;
 
-Inheritance;
+  Attributes and Methods;
 
-Polymorphism;
+  Inheritance;
 
-Enacapsulation
+  Polymorphism;
+
+  Enacapsulation
