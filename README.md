@@ -1,4 +1,4 @@
-# 12SDD Object Oriented Programming - Game Example
+# 12SDD Object Oriented Programming - Adventure Game Example
 
 The slides and associated code cover the following topic areas for HSC SDD:
 
