@@ -2,17 +2,17 @@
 
 The slides and associated code cover the following topic areas for HSC SDD:
 
-  Class definitions;
+  🔷 Class definitions
   
-  🔷 Objects;
+  🔷 Objects
   
-  🔷 Instantiation;
+  🔷 Instantiation
   
-  🔷 Attributes and Methods;
+  🔷 Attributes and Methods
   
-  🔷 Inheritance;
+  🔷 Inheritance
   
-  🔷 Polymorphism;
+  🔷 Polymorphism
   
   🔷 Enacapsulation
-  
+ 
