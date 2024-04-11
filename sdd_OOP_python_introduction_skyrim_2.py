@@ -3,7 +3,7 @@ import random
 class Weapon:
     def __init__(self, name, damage):
         self.name = name
-        self.damage = damage
+        self.damage = damage # damage attribute
 
 class Player:
     def __init__(self, name, hp):
